@@ -1,8 +1,6 @@
 # Todo-React-TypeScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## This is a whole list made with react js with typescript to acquire better knowledge in typing
 
 In the project directory, you can run:
 
